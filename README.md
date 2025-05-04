@@ -1,30 +1,38 @@
-# Ai game creator
+# AI Game Creator
 
-*Automatically synced with your [v0.dev](https://v0.dev) deployments*
+![AI Game Creator](https://placeholder.svg?height=300&width=600)
 
-[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/debdootmannas-projects/v0-ai-game-creator)
-[![Built with v0](https://img.shields.io/badge/Built%20with-v0.dev-black?style=for-the-badge)](https://v0.dev/chat/projects/FHNrUeZoFbd)
+AI Game Creator is a modern, single-page web application that allows users to create browser-based games using natural language prompts. Simply describe the game you want to create, and the AI will generate a fully functional game for you to play, customize, and share.
 
-## Overview
+## Features
 
-This repository will stay in sync with your deployed chats on [v0.dev](https://v0.dev).
-Any changes you make to your deployed app will be automatically pushed to this repository from [v0.dev](https://v0.dev).
+- **AI-Powered Game Generation**: Create games by describing them in plain English
+- **Real-Time Game Preview**: Instantly see and play your generated game
+- **Code Editor**: Modify and customize your game's code with a professional Monaco editor
+- **Multiple Game Types**: Create platformers, puzzles, arcade games, and more
+- **No Coding Experience Required**: Generate complete games without writing a single line of code
+- **Code Viewing**: Learn how your game works by examining the generated HTML, CSS, and JavaScript
+- **Example Games**: Try pre-built examples to understand what's possible
 
-## Deployment
+## Technologies Used
 
-Your project is live at:
+- **Next.js**: React framework for the frontend
+- **Tailwind CSS**: Utility-first CSS framework for styling
+- **OpenAI API**: Powers the AI game generation
+- **Monaco Editor**: Code editor for customizing games
+- **Zustand**: State management
+- **Vercel AI SDK**: Integration with AI models
 
-**[https://vercel.com/debdootmannas-projects/v0-ai-game-creator](https://vercel.com/debdootmannas-projects/v0-ai-game-creator)**
+## Getting Started
 
-## Build your app
+### Prerequisites
 
-Continue building your app on:
+- Node.js 18+ installed
+- OpenAI API key
 
-**[https://v0.dev/chat/projects/FHNrUeZoFbd](https://v0.dev/chat/projects/FHNrUeZoFbd)**
+### Installation
 
-## How It Works
-
-1. Create and modify your project using [v0.dev](https://v0.dev)
-2. Deploy your chats from the v0 interface
-3. Changes are automatically pushed to this repository
-4. Vercel deploys the latest version from this repository
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/ai-game-creator.git
+   cd ai-game-creator

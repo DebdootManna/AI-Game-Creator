@@ -31,7 +31,7 @@ export default function Navbar() {
             Download Game
           </Button>
           <Button variant="ghost" size="icon" asChild>
-            <a href="https://github.com" target="_blank" rel="noopener noreferrer">
+            <a href="https://github.com/DebdootManna/AI-Game-Creator" target="_blank" rel="noopener noreferrer">
               <Github className="h-5 w-5" />
               <span className="sr-only">GitHub</span>
             </a>

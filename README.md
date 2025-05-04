@@ -34,5 +34,5 @@ AI Game Creator is a modern, single-page web application that allows users to cr
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/ai-game-creator.git
+   git clone https://github.com/DebdootManna/ai-game-creator.git
    cd ai-game-creator
